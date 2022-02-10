@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.topbox {
+    background-image: url(./bakery.png);
+    background-size: cover;
+    height: 823px;
+}
+
+.toptitle {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 39px;
+    padding: 38px 80px 0px 0px;
+    display: inline-block;
+}
+
+a {
+    margin-left: 24px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+
+h1 {
+    margin-top: 200px;
+    width: 600px;
+    height: 90px;
+    text-align: center;
+    margin-left: 70px;
+    background-color: #061727;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #061727;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 58px;
+    letter-spacing: 0.2px;
+}
+
+h4 {
+    width: 317px;
+
+    margin-left: 73px;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+form {
+    float: right;
+    position: relative;
+    margin-right: 40px;
+    margin-left: 100px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.formtitle {
+    padding: 10px 0px 20px 0px;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+}
+label {
+    padding: 20px;
+    bottom: 10px;
+    width: 300px;
+    margin-right: 40px;
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input {
+    height: 30px;
+    width: 300px;
+    display: block;
+    margin-top: 4px;
+    background-color: #F9F9F9;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+textarea {
+    height: 100px;
+    width: 300px;
+    display: block;
+    margin-top: 4px;
+    background-color: #F9F9F9;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+button {
+    width: 300px;
+    display: block;
+    margin: 13px 21px;
+    text-align: center;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #40BB15;
+    border: 1px solid #40BB15;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.middletitle {
+    display: block;
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #252B42;
+    margin-top: 77px;
+    margin-bottom: 77px;
+}
+
+.middlebox {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.cardtitle {
+    background-color: #40BB15;
+    color:#FFFFFF;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    padding: 20px;
+}
+
+.card {
+    width: 270px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 10px;
+    background-color: #EEF6FF;
+    border: 1px solid #A9D6ff;
+}
+
+ul {
+    padding: 30px;
+}
+
+.bottombox {
+    margin-top: 450px;
+    text-align: justify;
+    position: absolute;
+    background-color: #061727;
+    width: 1350px;
+}
+
+.bottomtitle {
+    display: block;
+    text-align: center;
+    margin: 40px 0px 20px 0px;
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.bottomparagraph {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: justify;
+    padding: 2px 50px 70px 50px;
+    white-space:pre-line;
+    color: #FFFFFF;
+}
