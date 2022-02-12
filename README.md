@@ -1,6 +1,13 @@
 # landing-pages
- A challenge of HTML and CSS from DevClub classes
- 
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento, estão finalizadas as seguintes tarefas:
+
+- [x] Criação do HTML
+- [x] Estilização no CSS
+
+
  ##
 
 ![image](https://user-images.githubusercontent.com/97769685/153485641-82b2d5f3-27f3-4b2b-b3ee-3254b663fa2e.png)
@@ -12,3 +19,4 @@
 ![image](https://user-images.githubusercontent.com/97769685/153485983-78b91311-b6a7-4dfc-8cad-0a66534fb41c.png)
 ![image](https://user-images.githubusercontent.com/97769685/153486016-ec6b700d-9749-4b71-a1fb-6cfa2a1bc451.png)
 
+>  A challenge of HTML and CSS from DevClub classes
